@@ -22,7 +22,15 @@ settings and should work perfectly fine with Multisite installations
 
 == Notes == 
 
-Credits WordPress repository header image found in /assets: 
+Credits:
+
+Arrows icon used in the WordPress plugin repository and found in /assets/icon*
+From the series ['Flat Shadows'](http://www.toicon.com/series/flat-shadows) By [Shannon E Thomas](http://www.toicon.com/authors/1)
+
+Thanks Shannon E Thomas and to[icon] for sharing your work!
+
+
+WordPress repository header image found in /assets: 
 
 ['Arrow'](http://www.flickr.com/photos/usnationalarchives/4266516860/)
 
